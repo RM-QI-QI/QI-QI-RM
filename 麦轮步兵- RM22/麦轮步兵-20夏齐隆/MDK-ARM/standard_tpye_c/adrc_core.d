@@ -1,0 +1,11 @@
+standard_tpye_c\adrc_core.o: ..\ADRC2\ADRC_core.c
+standard_tpye_c\adrc_core.o: ..\ADRC2\ADRC_core.h
+standard_tpye_c\adrc_core.o: ..\ADRC2\ADRC_user.h
+standard_tpye_c\adrc_core.o: ..\components\algorithm\Include\arm_math.h
+standard_tpye_c\adrc_core.o: ../Drivers/CMSIS/Include/core_cm4.h
+standard_tpye_c\adrc_core.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+standard_tpye_c\adrc_core.o: ../Drivers/CMSIS/Include/cmsis_version.h
+standard_tpye_c\adrc_core.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+standard_tpye_c\adrc_core.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+standard_tpye_c\adrc_core.o: D:\MDK5\ARM\ARMCC\Bin\..\include\string.h
+standard_tpye_c\adrc_core.o: D:\MDK5\ARM\ARMCC\Bin\..\include\math.h
