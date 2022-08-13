@@ -1,0 +1,12 @@
+missile_typea\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+missile_typea\list.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+missile_typea\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+missile_typea\list.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+missile_typea\list.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+missile_typea\list.o: ../Core/Inc/FreeRTOSConfig.h
+missile_typea\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+missile_typea\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+missile_typea\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+missile_typea\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+missile_typea\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+missile_typea\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
